@@ -1,0 +1,5 @@
+python-ta~=2.7.0
+pandas
+scikit-learn
+seaborn
+plotly
